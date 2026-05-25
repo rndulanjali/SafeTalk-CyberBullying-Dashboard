@@ -607,7 +607,6 @@ else:  # About page
     st.markdown("""
     - **Scikit-learn Documentation:** [scikit-learn.org](https://scikit-learn.org)
     - **Streamlit Documentation:** [streamlit.io](https://streamlit.io)
-    - **Research Papers:** Van Hee et al. (2018), Davidson et al. (2017)
     - **Ethical AI Guidelines:** Partnership on AI, ACM Code of Ethics
     """)
     
